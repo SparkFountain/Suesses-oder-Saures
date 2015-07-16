@@ -1,0 +1,8 @@
+*.zip
+*.rar
+Trick or Treating/*
+sav/backup/*
+screenshots/*
+sfx/*.aup
+sfx/*_data
+gfx/*.xcf
